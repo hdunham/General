@@ -458,8 +458,12 @@ Reactant_jll = "0.0.317"
 ["0.2.215"]
 Reactant_jll = "0.0.318"
 
-["0.2.216 - 0"]
+["0.2.216"]
 Reactant_jll = "0.0.319"
+
+["0.2.218 - 0"]
+Reactant_jll = "0.0.322"
+Serialization = "1.10.0 - 1"
 
 ["0.2.22"]
 Reactant_jll = "0.0.52"
